@@ -1,54 +1,54 @@
 criaCartao(
-    'Programação',
+    'Tema CSS',
     'O que é Python?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
+    'Tema CSS',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'Tema CSS',
+    'Para que serve a tag <a>?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema HTML',
+    'Para que serve a tag <a>?',
+    'Criar links'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema HTML',
+    'O que é uma tag <div>?',
+    'Um contêiner de bloco para agrupar elementos'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema HTML',
+    'Como criar uma lista numerada?',
+    'Use a tag <ol> com <li>'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema JavaScript',
+    'O que é JavaScript?',
+    'Linguagem para adicionar interatividade em páginas webo'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema JavaScript',
+    ' Como exibir uma mensagem de alerta?',
+    'Use alert()'
 )
 
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tema JavaScript',
+    'Para que serve o let no JavaScript?',
+    'Declarar variáveis com escopo de bloco'
 )
