@@ -5,53 +5,48 @@ criaCartao(
 )
 
 criaCartao(
-    ' Para que serve o id no CSS?',
+    'Tema CSS',
+    'Para que serve o id no CSS?',
     'Estilizar um elemento único'
 )
 
 criaCartao(
+    'Tema CSS',
     'Como mudar a cor de fundo com CSS?',
     'Use background-color'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Tema HTML',
+    ' Para que serve a tag <a>?',
+    'Criar links'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema HTML',
+    ' Para que serve a tag <a>?',
+    'Criar links'
+
+criaCartao(
+    'Tema HTML',
+    ' O que é uma tag <div>?',
+    'Um contêiner de bloco para agrupar elementos'
+
+criaCartao(
+    'Tema JavaScript',
+    'O que é JavaScript?,
+    'Linguagem para adicionar interatividade em páginas web'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema JavaScript',
+    'Como exibir uma mensagem de alerta?',
+    'Use alert()'
 )
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Tema JavaScript',
+    ' Para que serve o let no JavaScript?',
+    'Declarar variáveis com escopo de bloco'
 )
 
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
